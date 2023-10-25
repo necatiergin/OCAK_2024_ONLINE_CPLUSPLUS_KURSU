@@ -29,7 +29,7 @@ _C++20_ standartları hakkında genel bilgiler verilmektedir.<br>
 &#9200; Programın toplam süresi __200__ saattir. 
 
 ## Ders Günleri ve Saatleri
-&#128197; &#9200;	Dersler __Pazartesi, Çarşamba ve Cuma__ günleri __19:30 – 22.30__ saatleri arasında __3’er saat__ olarak yapılacaktır.
+&#128197; &#9200;	Dersler __Cumartesi ve Pazar__ günleri __09:00 – 13.00__ saatleri arasında __4’er saat__ olarak yapılacaktır.
 
 ## Eğitim İçeriği
 &#128279;__[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/necatiergin/kurs_programlari/blob/main/cplusplus_kurs_icerigi.md)__
@@ -123,7 +123,7 @@ __C++__ kursu ilgili eğitim materyalleri program süresince öğrencilerle payl
 Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile __github__ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-Programın toplam ücreti __14.000__ &#8378;'dir. Öğrenci olanlar için kurs ücreti __12.500__ &#8378;'dir. 
+Programın toplam ücreti __20.000__ &#8378;'dir. Öğrenci olanlar için kurs ücreti __18.000__ &#8378;'dir. 
 Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. 
 Bireysel katılımlarda kurs ücretine **KDV** dahildir. 
 
