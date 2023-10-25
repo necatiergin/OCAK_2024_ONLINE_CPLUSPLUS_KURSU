@@ -12,10 +12,11 @@
 
 ⚠Kursta C++ dilinin C'den aldığı genel sentaks ögeleri ve standart kütüphane bileşenleri anlatılmamaktadır. Kurs katılımcılarının temel düzeyde C diline hakim oldukları varsayılmaktadır.
 
+<!---
 ## Kursla ilgili bağlantılar:
 [comment]: <> &#128279; [Kursun Genel Tanıtımı](https://github.com/necatiergin/TEMMUZ_2023_ONLINE_CPLUSPLUS_KURSU/blob/main/kurs_tanitimi.md)<br>
 [comment]: <> &#128279; [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/cplusplus_kurs_icerigi.md)<br>
 [comment]: <> &#128279; [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZwofuGvpj8vG93ZpzTvWCI_RrgyvEQjmqDW)
 
 [comment]: <> ![kurs tanıtım görseli](https://github.com/necatiergin/TEMMUZ_2023_ONLINE_CPLUSPLUS_KURSU/blob/main/cpp_kurs_gorseli.jpg)
-
+-->
