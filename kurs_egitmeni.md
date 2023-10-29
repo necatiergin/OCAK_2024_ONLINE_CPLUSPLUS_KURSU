@@ -1,7 +1,11 @@
 Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana eğitim vermektedir. Necati Ergin [C++ Türkiye Topluluğunun](https://t.me/trcpp) kurucusudur. 
 __C ve C++__ dillerinde aktif olarak uygulamalar geliştiren **Necati Ergin**, 100’ün üstünde şirket ve kuruma _C, C++, Veri Yapıları ve Algoritmalar, STL, Tasarım Kalıpları_ konularında eğitim vermiştir. 
 __Necati Ergin__'in eğitim verdiği kurumlar arasında 
+
+
 [Accenture](https://www.accenture.com/us-en),
+[Airties](https://airties.com/),
+[Aizona Tech](https://aizonatech.com/),
 [Akbank](https://www.akbank.com/tr-tr/sayfalar/default.aspx), 
 [Altınay Teknoloji](http://www.altinay.com/savunma-teknolojileri/),
 [Ankasis](http://www.ankasis.com/),
@@ -42,7 +46,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Katon Elektronik](http://www.katonelektronik.com/),
 [Katron](http://katron.com.tr/), 
 [Koç Bilgi ve Savunma](https://www.kocsavunma.com.tr/), 
-[Luna Eelektronik](https://lunatr.com/),
+[Luna Elektronik](https://lunatr.com/),
 [Mamur Teknoloji](http://www.mamurtech.com/), 
 [Milsoft](https://www.milsoft.com.tr/),
 [Netaş](http://www.netas.com.tr/ana-sayfa/), 
@@ -54,6 +58,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Roketsan](http://www.roketsan.com.tr/), 
 [Savronik](http://www.savronik.com.tr/tr/anasayfa/),
 [Siemens](https://www.siemens-home.bsh-group.com/tr/), 
+[Siemens Gamesa](https://www.siemensgamesa.com/en-int),
 [Statech Tecnology Solutions](http://www.statechsolutions.com/),
 [STM](https://www.stm.com.tr/tr), 
 [Sunny Elektronik](https://www.sunny.com.tr/), 
