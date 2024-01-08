@@ -126,6 +126,7 @@ Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile __github_
 Programın toplam ücreti __20.000__ &#8378;'dir. Öğrenci olanlar için kurs ücreti __18.000__ &#8378;'dir. 
 Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. 
 Bireysel katılımlarda kurs ücretine **KDV** dahildir. 
+Bireysel katılımcılar kurs ücretini 2 taksit olarak ödeyebilirler.
 
 
 ## Eğitim Programına Kayıt
